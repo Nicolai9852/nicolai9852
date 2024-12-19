@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I don't do much on GitHub. But I try to help out where I can.
-I mainly translate into Danish.
+I mainly do localization into Danish.
 
 ## What I have worked on
 
