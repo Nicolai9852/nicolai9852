@@ -11,6 +11,7 @@ I mainly do localization into Danish.
 - [Obsidian Plugin: YouVersion Linker](https://github.com/jaanonim/obsidian-youversion-linker/blob/master/Languages.md)
   - [Pull Request, original](https://github.com/jaanonim/obsidian-youversion-linker/pull/30)
   - [Pull Request, correction](https://github.com/jaanonim/obsidian-youversion-linker/pull/31)
+- [Remote Mouse](https://remotemouse.net/specialthanks) (Not a GitHub Repo, nor open source)
 
 <!--
 **Nicolai9852/nicolai9852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
