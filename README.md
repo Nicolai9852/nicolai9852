@@ -6,12 +6,14 @@ I mainly do localization into Danish.
 ## What I have worked on
 
 ### Localization
+- [OBS Studio](https://github.com/obsproject/obs-studio)
+  - My name is currently not in the AUTHORS.md file, since I deleted my account on Crowdin a while ago. But just search for ["Nicolai9852" across GitHub](https://github.com/search?q=Nicolai9852&type=code) and you will find 300+ forks of OBS Studio, where my name is included.
+  - I have however returned to translating OBS Studio and hope that it will appear in a future release.
 - [Obsidian Plugin: Bible Reference](https://github.com/tim-hub/obsidian-bible-reference/issues/228#issue-2517820554)
   - [Pull Request](https://github.com/Antioch-Tech/bible-reference-toolkit/pull/16)
 - [Obsidian Plugin: YouVersion Linker](https://github.com/jaanonim/obsidian-youversion-linker/blob/master/Languages.md)
   - [Pull Request, original](https://github.com/jaanonim/obsidian-youversion-linker/pull/30)
   - [Pull Request, correction](https://github.com/jaanonim/obsidian-youversion-linker/pull/31)
-- [RPAN Studio](https://github.com/reddit/rpan-studio/blob/master/AUTHORS)
 - [Remote Mouse](https://remotemouse.net/specialthanks) (Not a GitHub Repo, nor open source)
 
 <!--
